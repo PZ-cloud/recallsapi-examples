@@ -2,11 +2,6 @@ MIT License
 
 Copyright (c) 2026 PrimeZen LLC
 
-This license covers the example code in this repository only (the files under
-examples/ and the code blocks in README.md). It does not cover the
-recallsapi.com service, its data, its documentation site or its names and
-marks; use of the API is governed by https://recallsapi.com/terms.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
