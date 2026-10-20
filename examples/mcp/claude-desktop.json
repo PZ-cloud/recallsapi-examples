@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "recallsapi": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://api.recallsapi.com/mcp",
+        "--header",
+        "Authorization:${AUTH_HEADER}",
+        "--transport",
+        "http-only"
+      ],
+      "env": {
+        "AUTH_HEADER": "Bearer YOUR_RECALLSAPI_KEY"
+      }
+    }
+  }
+}

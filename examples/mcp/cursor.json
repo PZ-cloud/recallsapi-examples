@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "recallsapi": {
+      "url": "https://api.recallsapi.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:RECALLSAPI_KEY}"
+      }
+    }
+  }
+}
